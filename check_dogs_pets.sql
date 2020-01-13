@@ -1,2 +1,4 @@
 USE dogs;
 SHOW TABLES;
+DESCRIBE pets;
+SELECT * FROM pets;
