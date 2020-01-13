@@ -1,0 +1,2 @@
+USE dogs;
+SHOW TABLES;
